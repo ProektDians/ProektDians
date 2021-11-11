@@ -1,0 +1,1 @@
+osmconvert64 macedonia-latest.osm.pbf --out-osm -o=Lista.osm

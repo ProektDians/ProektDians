@@ -1,0 +1,2 @@
+osmfilter Lista.osm --keep="amenity=restaurant" | osmconvert64 - --all-to-nodes --csv="@id @lon @lat name cuisine website wheelchair opening_hours addr:city internet_access phone email outdoor_seating smoking payment:visa_electron
+payment:coins payment:mastercard addr:street" --csv-headline --csv-separator="," -o="Restorani.csv"
