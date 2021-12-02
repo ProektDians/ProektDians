@@ -1,0 +1,12 @@
+.About{
+    background: url('../background/dark-kit.jpg');
+    background-size:cover;
+    height: 1000px;
+    margin:10px;
+    padding:10px;
+}
+.About h1{
+    color:yellowgreen;
+    padding:10px;
+
+}

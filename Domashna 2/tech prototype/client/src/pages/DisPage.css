@@ -1,0 +1,10 @@
+.disPage{
+    background:url('../background/images.jfif');
+    background-size: contain;
+    height: 1000px;
+    font-family: 'Arial' !important;
+    color:white;
+}
+h1{
+    font-family: 'M PLUS 1 Code', sans-serif;
+}

@@ -1,0 +1,81 @@
+.inputDrop{
+    
+    width: 500px !important;
+    background-color:rgba(191, 191, 191);
+    height: 90vh;
+    padding-top:20px;
+    border-right:3px solid black;
+    
+  }
+.inputDrop .OdberiGrad{
+    margin:20px;
+ 
+}
+.inputDrop .labela{
+    margin-bottom:20px;
+}
+.listing{
+  
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(191, 191, 191);
+  
+}
+.listing-page{
+  background-color: white;
+  height: 68px;
+  width: 100%;
+  
+}
+.listaRestorani{
+  width:70vw;
+  background-color:white;
+  height: 81vh;
+  display: flex;
+  flex-direction: row;
+  justify-content:space-evenly ;
+  align-items: center;
+}
+
+.prebaruvajne{
+    display: flex;
+    flex-direction: row;
+    background-color: red;
+}
+.Odberi{
+  display: flex;
+  flex-direction: column;
+}
+.Odberi .Opis{
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+align-items: center;
+margin:10px;
+}
+.Odberi .Opis input{
+  margin-left:-300px;
+}
+.Odberi .Opis .Nedoz{
+  margin-left:-30px;
+}
+.Odberi .tera input{
+  margin:20px;
+  
+}
+.Odberi .tera .Prvo{
+  margin-left:-14px;
+  
+}
+.buttonSearch{
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
