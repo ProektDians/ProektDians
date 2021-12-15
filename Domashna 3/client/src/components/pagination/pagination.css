@@ -1,0 +1,13 @@
+.pageSelector .pagination li{
+    margin:auto;
+    display: inline;
+    margin:20px;
+    line-height: 50px;
+    text-decoration: none;
+    
+}
+.pageSelector .pagination li a{
+    text-decoration: none;
+
+}
+
